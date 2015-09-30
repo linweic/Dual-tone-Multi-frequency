@@ -2,8 +2,7 @@
 ESE519 Lab2 Code implementation
 Objective: Use output compare interrupt and pulse width modulation(PWM) to generate different frequency waveforms through HCS12 microcontroller
 
-Part 1	
-	
+Part 1
 	The code generates a required frequency of waveform. The speaker in our circuit will paly sound according to the frequency.
 
 Part 2
